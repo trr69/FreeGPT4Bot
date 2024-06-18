@@ -2,6 +2,9 @@
 
 FreeGPT4Bot is a Telegram bot that provides free access to GPT-4 using the g4f library. This bot allows users to interact with GPT-4 directly from Telegram.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 25c689b801e34ea785e3d80a3a696af278b2b22a
 
 ## Features
 
@@ -63,5 +66,8 @@ This bot uses the g4f library, which provides unofficial access to GPT-4. Use it
 
 - [g4f library](https://github.com/yourusername/g4f) for providing free access to GPT-4.
 - [Aiogram](https://github.com/aiogram/aiogram) for the Telegram bot framework.
+<<<<<<< HEAD
 =======
 >>>>>>> 61daf01175823f37ea7822568eece39b1c900ee1
+=======
+>>>>>>> 25c689b801e34ea785e3d80a3a696af278b2b22a
